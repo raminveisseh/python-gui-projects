@@ -1,0 +1,2 @@
+Ramin,22,TownHouse,Standard,72000
+Bob    37    Luxury Villa    Smart    200000
