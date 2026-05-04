@@ -4,9 +4,9 @@ A collection of desktop applications built with Python and PyQt6, developed duri
 
 ---
 
-## 🗂️ Projects
+## Projects
 
-### 🏆 [finalProject](./finalProject) — Fair Ticket Sales System
+### [finalProject](./finalProject) — Fair Ticket Sales System
 The most comprehensive project in this portfolio. A full multi-window desktop application connected to a MySQL database. Features a central dashboard that launches separate windows for purchasing tickets, searching transactions, and displaying all sales records. Demonstrates multi-window architecture, SQL INSERT/SELECT/AVG queries, tax calculations, file-based price loading, and robust error handling throughout.
 
 **Skills:** PyQt6, MySQL, pymysql, multi-window navigation, SQL queries, file I/O, error handling
@@ -90,7 +90,7 @@ Demonstrates how to pass data between two separate application windows in PyQt6.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** Python 3
 - **GUI Framework:** PyQt6
@@ -99,8 +99,8 @@ Demonstrates how to pass data between two separate application windows in PyQt6.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Ramin Veisseh**
-📧 raminveisseh@gmail.com
+raminveisseh@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ramin-veisseh)
