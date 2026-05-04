@@ -1,0 +1,4 @@
+Adult Ticket, 25
+Child Ticket, 10
+Student Ticket, 15
+Ride Pass, 30

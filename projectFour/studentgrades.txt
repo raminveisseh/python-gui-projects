@@ -1,0 +1,4 @@
+1001     Fred Renk     B
+1002     Steve Allen     B
+1003     Genna Wood     A
+1004     John Doe     A
